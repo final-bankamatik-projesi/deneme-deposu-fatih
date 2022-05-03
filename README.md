@@ -1,2 +1,4 @@
 # deneme-deposu-fatih
-deneme amaçlı 
+deneme amaçlı
+
+beni oku dosyasının içindeyim
