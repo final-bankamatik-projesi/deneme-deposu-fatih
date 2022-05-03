@@ -2,3 +2,4 @@
 deneme amaçlı
 
 beni oku dosyasının içindeyim
+evet gördüm
